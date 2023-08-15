@@ -1,2 +1,3 @@
 # TUGAS_7
-Property Shorthand : Menjadikan 1 Property dari beberapa property seperti bg-color, image, repeat, position dan lain lain
+sama dengan Tugas 6 bedahnya menggunakan hr div dan link href
+sama dengan Tugas 6 bedahnya menggunakan hr div dan link href
